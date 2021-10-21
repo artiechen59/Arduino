@@ -1,0 +1,15 @@
+2016-11-06 17:38:34: -- Artie_program: ANALYSIS started by User on 'ART-PC' (GoodSync 9.7.6.6)
+2016-11-06 17:38:34: =WD_1:\Arduino_backup\Arduino\Artie program (K:/Arduino_backup/Arduino/Artie program) <-> =MAC_EXT_USB:\Arduino\Artie program (M:/Arduino/Artie program)
+2016-11-06 17:38:35: L: State file does not exist: K:/Arduino_backup/Arduino/Artie program/_gsdata_/_file_state_v4._gs
+2016-11-06 17:38:35: L: Files: 252 (excluded 0). Folders: 101 (excluded 0). K: NTFS, Free: 70.1 GB, Total: 488 GB
+2016-11-06 17:38:41: R: State file does not exist: M:/Arduino/Artie program/_gsdata_/_file_state_v4._gs
+2016-11-06 17:38:41: R: Files: 252 (excluded 0). Folders: 101 (excluded 0). M: exFAT, Free: 49.8 GB, Total: 420 GB
+2016-11-06 17:38:41: Changes: 0, Conflicts: 0, CopyTime: 0, CopyState: 0/353, Errors: 0
+2016-11-06 17:38:41: -- Analysis Completed. Time 00:00:07, Speed: 50 files/s
+2016-11-06 17:38:41: 
+2016-11-06 17:38:55: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2016-11-06 17:38:55: == Artie_program: SYNC started by User on 'ART-PC'
+2016-11-06 17:38:55: =WD_1:\Arduino_backup\Arduino\Artie program (K:/Arduino_backup/Arduino/Artie program) <-> =MAC_EXT_USB:\Arduino\Artie program (M:/Arduino/Artie program)
+2016-11-06 17:38:55: Items Synced OK: 353, Errors: 0
+2016-11-06 17:38:55: == Sync Completed. Time: 00:00:00, Speed: 0 個位元組/s
+2016-11-06 17:38:55: 

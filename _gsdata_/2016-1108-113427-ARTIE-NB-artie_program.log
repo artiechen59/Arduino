@@ -1,0 +1,776 @@
+2016-11-08 11:34:27: -- Analysis Started by User
+2016-11-08 11:34:28: R: State file does not exist: G:/from Macbook/Arduino/Artie program/_gsdata_/_file_state_v4._gs
+2016-11-08 11:34:28: /_5DOF_ARM/_5DOF_ARM.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /accelerometer/accelerometer.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /accelerometer/socketapp.c: Conflict: New files that differ
+2016-11-08 11:34:28: /Arduino_UDP_working/Arduino_UDP_working.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /Arduino_UDP_working/udpapp.c: Conflict: New files that differ
+2016-11-08 11:34:28: /Artie_LcdKeypad/Artie_LcdKeypad.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/App.config: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/c_sharp_exercise1.csproj: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Form1.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/c_sharp_exercise1.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Program.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:34:28: /c_sharp_exercise1/c_sharp_exercise1.sln: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/App.config: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/C_sharp_mouse_control.csproj: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Form1.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Properties.Resources.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TempPE: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Program.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Properties: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:34:28: /C_sharp_mouse_control/C_sharp_mouse_control.sln: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/App.config: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/bin/Debug/Calculator.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/bin/Debug/Calculator.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/bin/Debug/Calculator.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Calculator.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Calculator.csproj: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/ClassDiagram1.cd: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Form1.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Form1.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/obj/Debug/Calculator.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/obj/Debug/Calculator.csproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/obj/Debug/Calculator.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/obj/Debug/Calculator.Form1.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/obj/Debug/Calculator.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/obj/Debug/Calculator.Properties.Resources.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Program.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:34:28: /Calculator/Calculator.sln: Conflict: New files that differ
+2016-11-08 11:34:28: /Cam/FFHLQ32GUKAR5NJ.pde: Conflict: New files that differ
+2016-11-08 11:34:28: /Cam/FN117COGV5S5HM2.pdf: Conflict: New files that differ
+2016-11-08 11:34:28: /CD_ROM_Stepper/CD_ROM_Stepper.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /DC_motor/DC_motor/DC_motor.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /GPSlim236/gps/gps.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /home_WiServer_5DOF_ARM/home_WiServer_5DOF_ARM.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /home_WiServer_button/home_WiServer_button.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /Home_WiServer_LCD/Home_wifi_LCD_ino/Home_wifi_LCD_ino.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /home_WiServer_test1/home_WiServer_test1.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /home_WiServer_test1/home_WiServer_test1_ino/home_WiServer_test1_ino.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /IR_copy_and_send/IR_copy_and_send.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /KH_office_WiServer_button/KH_office_WiServer_button.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /KH_office_WiServer_LCD/KH_wifi_LCD/KH_wifi_LCD_ino/KH_wifi_LCD_ino.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /KH_office_WiServer_test1/KH_office_WiServer_test1.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /motor_shield_servo/servo_with_motor_shield/servo_with_motor_shield.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /MPU6050三軸加速器/MPU6050_example1/MPU6050_example1.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.cpp: Conflict: New files that differ
+2016-11-08 11:34:28: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.h: Conflict: New files that differ
+2016-11-08 11:34:28: /MPU6050三軸加速器/MPU6050_raw/MPU6050.cpp: Conflict: New files that differ
+2016-11-08 11:34:28: /MPU6050三軸加速器/MPU6050_raw/MPU6050.h: Conflict: New files that differ
+2016-11-08 11:34:28: /MPU6050三軸加速器/MPU6050_raw/MPU6050_raw.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2.c: Conflict: New files that differ
+2016-11-08 11:34:28: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2_1_YJ.pde: Conflict: New files that differ
+2016-11-08 11:34:28: /RC_AR_Drone_V2_1_YJ/user_config.h: Conflict: New files that differ
+2016-11-08 11:34:28: /set_wifi_ap_conf_TCPIP_SERVER_Artie: Conflict: New files that differ
+2016-11-08 11:34:28: /set_wifi_ap_conf_TCPIP_SERVER_Artie/set_wifi_ap_conf_TCPIP_SERVER_Artie.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /set_wifi_ap_conf_UDPSERVER_Artie: Conflict: New files that differ
+2016-11-08 11:34:28: /set_wifi_ap_conf_UDPSERVER_Artie/set_wifi_ap_conf_UDPSERVER_Artie.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /set_wifi_ap_conf_UDPSERVER_Artie/Setup_procedure_Artie.docx: Conflict: New files that differ
+2016-11-08 11:34:28: /SOCKET_APP_ROBOT/SOCKET_APP_ROBOT.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /SOCKET_APP_ROBOT/socketapp.c: Conflict: New files that differ
+2016-11-08 11:34:28: /SOCKET_APP_ROBOT_MEGA/SOCKET_APP_ROBOT_MEGA.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /SOCKET_APP_ROBOT_UNO/SOCKET_APP_ROBOT_UNO.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /SOCKET_APP_ROBOT_UNO/socketapp.c: Conflict: New files that differ
+2016-11-08 11:34:28: /SPI_master/spi_master/spi_master.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /SPI_slave/spi_slave/spi_slave.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /stepper_oneRevolution/stepper_oneRevolution.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP/UDP.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP/udpapp.c: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/App.config: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Program.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/WindowsFormsApplication1.csproj: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1.sln: Conflict: New files that differ
+2016-11-08 11:34:28: /UDP_example.pdf: Conflict: New files that differ
+2016-11-08 11:34:28: /unipolar_stepper_oneRevolution/unipolar_stepper_oneRevolution.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /unipolar_stepper_oneStepAtATime/unipolar_stepper_oneStepAtATime.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /UNO_as_SPI_master/uno_SPI_master/uno_SPI_master.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.css: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.xslt: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Minus.gif: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Plus.gif: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.myapp: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/AssemblyInfo.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.settings: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller.sln: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/UpgradeLog.XML: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.myapp: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/AssemblyInfo.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.Designer.vb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.settings: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.read.1.tlog: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.write.1.tlog: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Form1.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Resources.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/TempPE/My Project.Resources.Designer.vb.dll: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Form1.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Resources.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back.png: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back1.png: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for.png: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for1.png: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for2.png: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for3.png: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/left.jpg: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right.jpg: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right1.jpg: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller.sln: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/socketapp.c: Conflict: New files that differ
+2016-11-08 11:34:28: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/WiFi_Controlled_Car.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /Wiichuck_working/nunchuck_funcs.h: Conflict: New files that differ
+2016-11-08 11:34:28: /Wiichuck_working/Wiichuck_working.ino: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/App.config: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Form1.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Form1.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csprojResolveAssemblyReference.cache: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.exe: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Form1.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.pdb: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Properties.Resources.resources: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Program.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1/WindowsFormstest1.csproj: Conflict: New files that differ
+2016-11-08 11:34:28: /WindowsFormstest1/WindowsFormstest1.sln: Conflict: New files that differ
+2016-11-08 11:34:28: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2016-11-08 11:34:28: Changes: 519, Conflicts: 246, CopyTime: 0, CopyState: 105/0, Errors: 0, All: 649
+2016-11-08 11:34:28: Left to Right: Copy File: 273 Copy State: 105 
+2016-11-08 11:34:28: -- Analysis Complete. Time 00:00:01, Speed: 649 files/s
+2016-11-08 11:34:28: 
+2016-11-08 11:34:31: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2016-11-08 11:34:32: == Sync Started by Sync Only Command
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/.vs'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/.vs/Arduino_control_panel'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/.vs/Arduino_control_panel/v14'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Release'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/TempPE'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Release'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/.vs'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/.vs/UDPClient'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/.vs/UDPClient/v14'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Release'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj'
+2016-11-08 11:34:32: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/TempPE'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Release'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/Properties'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/.vs'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/.vs/UDPServer'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/.vs/UDPServer/v14'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Release'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/TempPE'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Release'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/Properties'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/TempPE'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/.vs'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/.vs/UDP_Client'
+2016-11-08 11:34:33: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/.vs/UDP_Client/v14'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/TempPE'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/Properties'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/.vs'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/.vs/UDP_client1'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/.vs/UDP_client1/v14'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/TempPE'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/Properties'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/.vs'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/.vs/UDP_Server'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/.vs/UDP_Server/v14'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/TempPE'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/Properties'
+2016-11-08 11:34:34: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/.vs'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/.vs/UDP_server1'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/.vs/UDP_server1/v14'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/TempPE'
+2016-11-08 11:34:35: Create Folder 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/Properties'
+2016-11-08 11:34:35: /_5DOF_ARM/_5DOF_ARM.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /accelerometer/accelerometer.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /accelerometer/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Arduino_UDP_working/Arduino_UDP_working.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Arduino_UDP_working/udpapp.c: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Artie_LcdKeypad/Artie_LcdKeypad.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/App.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/c_sharp_exercise1.csproj: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/c_sharp_exercise1.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /c_sharp_exercise1/c_sharp_exercise1.sln: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/App.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/C_sharp_mouse_control.csproj: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Properties.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TempPE: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control/C_sharp_mouse_control.sln: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /C_sharp_mouse_control: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/App.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/bin/Debug/Calculator.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/bin/Debug/Calculator.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/bin/Debug/Calculator.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Calculator.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Calculator.csproj: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/ClassDiagram1.cd: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/obj/Debug/Calculator.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/obj/Debug/Calculator.csproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/obj/Debug/Calculator.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/obj/Debug/Calculator.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/obj/Debug/Calculator.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/obj/Debug/Calculator.Properties.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Calculator/Calculator.sln: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Cam/FFHLQ32GUKAR5NJ.pde: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Cam/FN117COGV5S5HM2.pdf: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /CD_ROM_Stepper/CD_ROM_Stepper.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /DC_motor/DC_motor/DC_motor.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /GPSlim236/gps/gps.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /home_WiServer_5DOF_ARM/home_WiServer_5DOF_ARM.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /home_WiServer_button/home_WiServer_button.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /Home_WiServer_LCD/Home_wifi_LCD_ino/Home_wifi_LCD_ino.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /home_WiServer_test1/home_WiServer_test1.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /home_WiServer_test1/home_WiServer_test1_ino/home_WiServer_test1_ino.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /IR_copy_and_send/IR_copy_and_send.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /KH_office_WiServer_button/KH_office_WiServer_button.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /KH_office_WiServer_LCD/KH_wifi_LCD/KH_wifi_LCD_ino/KH_wifi_LCD_ino.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /KH_office_WiServer_test1/KH_office_WiServer_test1.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /motor_shield_servo/servo_with_motor_shield/servo_with_motor_shield.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /MPU6050三軸加速器/MPU6050_example1/MPU6050_example1.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.cpp: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.h: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /MPU6050三軸加速器/MPU6050_raw/MPU6050.cpp: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /MPU6050三軸加速器/MPU6050_raw/MPU6050.h: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /MPU6050三軸加速器/MPU6050_raw/MPU6050_raw.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2.c: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2_1_YJ.pde: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /RC_AR_Drone_V2_1_YJ/user_config.h: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /set_wifi_ap_conf_TCPIP_SERVER_Artie/set_wifi_ap_conf_TCPIP_SERVER_Artie.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /set_wifi_ap_conf_TCPIP_SERVER_Artie: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /set_wifi_ap_conf_UDPSERVER_Artie/set_wifi_ap_conf_UDPSERVER_Artie.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /set_wifi_ap_conf_UDPSERVER_Artie/Setup_procedure_Artie.docx: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /set_wifi_ap_conf_UDPSERVER_Artie: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /SOCKET_APP_ROBOT/SOCKET_APP_ROBOT.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /SOCKET_APP_ROBOT/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /SOCKET_APP_ROBOT_MEGA/SOCKET_APP_ROBOT_MEGA.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /SOCKET_APP_ROBOT_UNO/SOCKET_APP_ROBOT_UNO.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /SOCKET_APP_ROBOT_UNO/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /SPI_master/spi_master/spi_master.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /SPI_slave/spi_slave/spi_slave.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /stepper_oneRevolution/stepper_oneRevolution.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP/UDP.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP/udpapp.c: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/App.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/WindowsFormsApplication1.csproj: unresolved conflict results in No Copy
+2016-11-08 11:34:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1.sln: unresolved conflict results in No Copy
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Arduino_control_panel.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Arduino_control_panel.csproj'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Arduino_control_panel.csproj.user' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Arduino_control_panel.csproj.user'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.exe'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.pdb'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.vshost.exe'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/bin/Debug/Arduino_control_panel.vshost.exe.manifest'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Form1.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Form1.cs'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Form1.Designer.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Form1.Designer.cs'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Form1.resx' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Form1.resx'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.csproj.GenerateResource.Cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.csproj.GenerateResource.Cache'
+2016-11-08 11:34:35: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.csprojResolveAssemblyReference.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.csprojResolveAssemblyReference.cache'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.Form1.resources' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.Form1.resources'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.pdb'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.Properties.Resources.resources' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/Arduino_control_panel.Properties.Resources.resources'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/GenerateResource.read.1.tlog' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/GenerateResource.read.1.tlog'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/GenerateResource.write.1.tlog' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/obj/x86/Debug/GenerateResource.write.1.tlog'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Program.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Resources.Designer.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Resources.Designer.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Resources.resx' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Resources.resx'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Settings.Designer.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Settings.Designer.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Settings.settings' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel/Properties/Settings.settings'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel.sln'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/Arduino_control_panel/Arduino_control_panel.suo'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/bin/Debug/ConsoleApplication1.vshost.exe.manifest'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/ConsoleApplication1.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/ConsoleApplication1.csproj'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/ConsoleApplication1.csproj.user' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/ConsoleApplication1.csproj.user'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.csprojResolveAssemblyReference.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.csprojResolveAssemblyReference.cache'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.pdb'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/Program.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/ConsoleApplication1/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/UDPClient.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/UDPClient.sln'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/UDPClient.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/UDPClient.suo'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/UDPClient.v12.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPClient/UDPClient.v12.suo'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.pdb'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.vshost.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/ConsoleApplication1.vshost.exe.manifest'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.pdb'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe.manifest'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/ConsoleApplication1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/ConsoleApplication1.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/ConsoleApplication1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/ConsoleApplication1.pdb'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.csprojResolveAssemblyReference.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.csprojResolveAssemblyReference.cache'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.exe'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/obj/x86/Debug/UDPServer.pdb'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/Program.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/UDPServer.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/UDPServer.csproj'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/UDPServer.csproj.user' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer/UDPServer.csproj.user'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer.sln'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer.suo'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer.v12.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer/UDPServer.v12.suo'
+2016-11-08 11:34:36: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/App.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/App.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.exe.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.pdb'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/bin/Debug/UDPServer.vshost.exe.manifest'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Form1.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Form1.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Form1.Designer.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Form1.Designer.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Form1.resx' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Form1.resx'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/DesignTimeResolveAssemblyReferences.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/DesignTimeResolveAssemblyReferences.cache'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.csproj.GenerateResource.Cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.csproj.GenerateResource.Cache'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.Form1.resources' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.Form1.resources'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.pdb'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.Properties.Resources.resources' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/obj/Debug/UDPServer.Properties.Resources.resources'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Program.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Resources.Designer.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Resources.Designer.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Resources.resx' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Resources.resx'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Settings.Designer.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Settings.Designer.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Settings.settings' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/Properties/Settings.settings'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/UDPServer.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer/UDPServer.csproj'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer.sln'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer.v12.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/c_sharp_UDP_working/UDPServer_windowsform/UDPServer/UDPServer.v12.suo'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/App.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/App.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.exe.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.pdb'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.vshost.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.vshost.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.vshost.exe.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/bin/Debug/UDP_Client.vshost.exe.manifest'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.csprojResolveAssemblyReference.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.csprojResolveAssemblyReference.cache'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/obj/Debug/UDP_Client.pdb'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/Program.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/UDP_Client.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client/UDP_Client.csproj'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client.sln'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client.v12.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Client/UDP_Client.v12.suo'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/App.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/App.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.exe.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.pdb'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.vshost.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.vshost.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.vshost.exe.config'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/bin/Debug/UDP_client1.vshost.exe.manifest'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.csprojResolveAssemblyReference.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.csprojResolveAssemblyReference.cache'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.exe'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/obj/Debug/UDP_client1.pdb'
+2016-11-08 11:34:37: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/Program.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/UDP_client1.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1/UDP_client1.csproj'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1.sln'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1.v12.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_client2/UDP_client1.v12.suo'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/App.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/App.config'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.exe'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.exe.config'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.pdb'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.vshost.exe'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.vshost.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.vshost.exe.config'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/bin/Debug/UDP_Server.vshost.exe.manifest'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.csprojResolveAssemblyReference.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.csprojResolveAssemblyReference.cache'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.exe'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/obj/Debug/UDP_Server.pdb'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/Program.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/UDP_Server.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server/UDP_Server.csproj'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server.sln'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server.v12.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_Server/UDP_Server.v12.suo'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/App.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/App.config'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.exe'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.exe.config'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.pdb'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.vshost.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.vshost.exe'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.vshost.exe.config' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.vshost.exe.config'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.vshost.exe.manifest' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/bin/Debug/UDP_server1.vshost.exe.manifest'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/UDP_server1.csproj.FileListAbsolute.txt' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/UDP_server1.csproj.FileListAbsolute.txt'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/UDP_server1.exe' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/UDP_server1.exe'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/UDP_server1.pdb' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/obj/Debug/UDP_server1.pdb'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/Program.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/Program.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/Properties/AssemblyInfo.cs' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/Properties/AssemblyInfo.cs'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/UDP_server1.csproj' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1/UDP_server1.csproj'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1.sln' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1.sln'
+2016-11-08 11:34:38: Copy New 'C:/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1.v12.suo' -> 'G:/from Macbook/Arduino/Artie program/UDP_computer/UDP_server2/UDP_server1.v12.suo'
+2016-11-08 11:34:38: /UDP_example.pdf: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /unipolar_stepper_oneRevolution/unipolar_stepper_oneRevolution.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /unipolar_stepper_oneStepAtATime/unipolar_stepper_oneStepAtATime.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /UNO_as_SPI_master/uno_SPI_master/uno_SPI_master.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.css: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.xslt: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Minus.gif: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Plus.gif: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.myapp: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/AssemblyInfo.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller.sln: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/UpgradeLog.XML: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.myapp: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/AssemblyInfo.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.read.1.tlog: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.write.1.tlog: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/TempPE/My Project.Resources.Designer.vb.dll: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back.png: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back1.png: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for.png: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for1.png: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for2.png: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for3.png: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/left.jpg: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right.jpg: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right1.jpg: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller.sln: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/WiFi_Controlled_Car.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /Wiichuck_working/nunchuck_funcs.h: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /Wiichuck_working/Wiichuck_working.ino: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/App.config: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csprojResolveAssemblyReference.cache: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.exe: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.pdb: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Properties.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1/WindowsFormstest1.csproj: unresolved conflict results in No Copy
+2016-11-08 11:34:38: /WindowsFormstest1/WindowsFormstest1.sln: unresolved conflict results in No Copy
+2016-11-08 11:34:38: == Sync Complete. Time: 00:00:07, Speed: 177 KB/s, OK: 378, Errors: 0, Conflicts: 246
+2016-11-08 11:34:38: 

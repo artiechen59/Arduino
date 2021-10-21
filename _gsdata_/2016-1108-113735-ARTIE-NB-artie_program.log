@@ -1,0 +1,500 @@
+2016-11-08 11:37:35: -- Analysis Started by Sync Only Command
+2016-11-08 11:37:35: /_5DOF_ARM/_5DOF_ARM.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /accelerometer/accelerometer.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /accelerometer/socketapp.c: Conflict: New files that differ
+2016-11-08 11:37:35: /Arduino_UDP_working/Arduino_UDP_working.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /Arduino_UDP_working/udpapp.c: Conflict: New files that differ
+2016-11-08 11:37:35: /Artie_LcdKeypad/Artie_LcdKeypad.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/App.config: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/c_sharp_exercise1.csproj: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Form1.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/c_sharp_exercise1.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Program.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:37:35: /c_sharp_exercise1/c_sharp_exercise1.sln: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/App.config: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/C_sharp_mouse_control.csproj: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Form1.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Properties.Resources.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TempPE: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Program.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:37:35: /C_sharp_mouse_control/C_sharp_mouse_control.sln: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/App.config: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/bin/Debug/Calculator.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/bin/Debug/Calculator.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/bin/Debug/Calculator.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Calculator.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Calculator.csproj: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/ClassDiagram1.cd: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Form1.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Form1.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/obj/Debug/Calculator.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/obj/Debug/Calculator.csproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/obj/Debug/Calculator.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/obj/Debug/Calculator.Form1.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/obj/Debug/Calculator.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/obj/Debug/Calculator.Properties.Resources.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Program.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:37:35: /Calculator/Calculator.sln: Conflict: New files that differ
+2016-11-08 11:37:35: /Cam/FFHLQ32GUKAR5NJ.pde: Conflict: New files that differ
+2016-11-08 11:37:35: /Cam/FN117COGV5S5HM2.pdf: Conflict: New files that differ
+2016-11-08 11:37:35: /CD_ROM_Stepper/CD_ROM_Stepper.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /DC_motor/DC_motor/DC_motor.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /GPSlim236/gps/gps.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /home_WiServer_5DOF_ARM/home_WiServer_5DOF_ARM.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /home_WiServer_button/home_WiServer_button.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /Home_WiServer_LCD/Home_wifi_LCD_ino/Home_wifi_LCD_ino.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /home_WiServer_test1/home_WiServer_test1.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /home_WiServer_test1/home_WiServer_test1_ino/home_WiServer_test1_ino.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /IR_copy_and_send/IR_copy_and_send.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /KH_office_WiServer_button/KH_office_WiServer_button.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /KH_office_WiServer_LCD/KH_wifi_LCD/KH_wifi_LCD_ino/KH_wifi_LCD_ino.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /KH_office_WiServer_test1/KH_office_WiServer_test1.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /motor_shield_servo/servo_with_motor_shield/servo_with_motor_shield.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /MPU6050三軸加速器/MPU6050_example1/MPU6050_example1.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.cpp: Conflict: New files that differ
+2016-11-08 11:37:35: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.h: Conflict: New files that differ
+2016-11-08 11:37:35: /MPU6050三軸加速器/MPU6050_raw/MPU6050.cpp: Conflict: New files that differ
+2016-11-08 11:37:35: /MPU6050三軸加速器/MPU6050_raw/MPU6050.h: Conflict: New files that differ
+2016-11-08 11:37:35: /MPU6050三軸加速器/MPU6050_raw/MPU6050_raw.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2.c: Conflict: New files that differ
+2016-11-08 11:37:35: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2_1_YJ.pde: Conflict: New files that differ
+2016-11-08 11:37:35: /RC_AR_Drone_V2_1_YJ/user_config.h: Conflict: New files that differ
+2016-11-08 11:37:35: /set_wifi_ap_conf_TCPIP_SERVER_Artie: Conflict: New files that differ
+2016-11-08 11:37:35: /set_wifi_ap_conf_TCPIP_SERVER_Artie/set_wifi_ap_conf_TCPIP_SERVER_Artie.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /set_wifi_ap_conf_UDPSERVER_Artie: Conflict: New files that differ
+2016-11-08 11:37:35: /set_wifi_ap_conf_UDPSERVER_Artie/set_wifi_ap_conf_UDPSERVER_Artie.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /set_wifi_ap_conf_UDPSERVER_Artie/Setup_procedure_Artie.docx: Conflict: New files that differ
+2016-11-08 11:37:35: /SOCKET_APP_ROBOT/SOCKET_APP_ROBOT.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /SOCKET_APP_ROBOT/socketapp.c: Conflict: New files that differ
+2016-11-08 11:37:35: /SOCKET_APP_ROBOT_MEGA/SOCKET_APP_ROBOT_MEGA.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /SOCKET_APP_ROBOT_UNO/SOCKET_APP_ROBOT_UNO.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /SOCKET_APP_ROBOT_UNO/socketapp.c: Conflict: New files that differ
+2016-11-08 11:37:35: /SPI_master/spi_master/spi_master.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /SPI_slave/spi_slave/spi_slave.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /stepper_oneRevolution/stepper_oneRevolution.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP/UDP.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP/udpapp.c: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/App.config: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Program.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/WindowsFormsApplication1.csproj: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1.sln: Conflict: New files that differ
+2016-11-08 11:37:35: /UDP_example.pdf: Conflict: New files that differ
+2016-11-08 11:37:35: /unipolar_stepper_oneRevolution/unipolar_stepper_oneRevolution.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /unipolar_stepper_oneStepAtATime/unipolar_stepper_oneStepAtATime.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /UNO_as_SPI_master/uno_SPI_master/uno_SPI_master.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.css: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.xslt: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Minus.gif: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Plus.gif: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.myapp: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/AssemblyInfo.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.settings: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller.sln: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/UpgradeLog.XML: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.myapp: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/AssemblyInfo.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.Designer.vb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.settings: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.read.1.tlog: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.write.1.tlog: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Form1.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Resources.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/TempPE/My Project.Resources.Designer.vb.dll: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Form1.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Resources.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.xml: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back.png: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back1.png: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for.png: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for1.png: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for2.png: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for3.png: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/left.jpg: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right.jpg: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right1.jpg: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller.sln: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/socketapp.c: Conflict: New files that differ
+2016-11-08 11:37:35: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/WiFi_Controlled_Car.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /Wiichuck_working/nunchuck_funcs.h: Conflict: New files that differ
+2016-11-08 11:37:35: /Wiichuck_working/Wiichuck_working.ino: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/App.config: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.config: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.manifest: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Form1.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Form1.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Form1.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.FileListAbsolute.txt: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.GenerateResource.Cache: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csprojResolveAssemblyReference.cache: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.exe: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Form1.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.pdb: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Properties.Resources.resources: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Program.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Properties/AssemblyInfo.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.resx: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.Designer.cs: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.settings: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1/WindowsFormstest1.csproj: Conflict: New files that differ
+2016-11-08 11:37:35: /WindowsFormstest1/WindowsFormstest1.sln: Conflict: New files that differ
+2016-11-08 11:37:35: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2016-11-08 11:37:35: Changes: 246, Conflicts: 246, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 649
+2016-11-08 11:37:35: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2016-11-08 11:37:35: 
+2016-11-08 11:37:37: == Sync Started by Sync Only Command
+2016-11-08 11:37:38: /_5DOF_ARM/_5DOF_ARM.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /accelerometer/accelerometer.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /accelerometer/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Arduino_UDP_working/Arduino_UDP_working.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Arduino_UDP_working/udpapp.c: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Artie_LcdKeypad/Artie_LcdKeypad.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/App.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/bin/Debug/c_sharp_exercise1.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/c_sharp_exercise1.csproj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/c_sharp_exercise1.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /c_sharp_exercise1/c_sharp_exercise1.sln: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/App.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug/C_sharp_mouse_control.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin/Debug: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/bin: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/C_sharp_mouse_control.csproj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.csproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/C_sharp_mouse_control.Properties.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug/TempPE: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj/Debug: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/obj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control/Properties: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control/C_sharp_mouse_control.sln: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /C_sharp_mouse_control: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/App.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/bin/Debug/Calculator.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/bin/Debug/Calculator.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/bin/Debug/Calculator.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/bin/Debug/Calculator.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Calculator.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Calculator.csproj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/ClassDiagram1.cd: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/obj/Debug/Calculator.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/obj/Debug/Calculator.csproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/obj/Debug/Calculator.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/obj/Debug/Calculator.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/obj/Debug/Calculator.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/obj/Debug/Calculator.Properties.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Calculator/Calculator.sln: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Cam/FFHLQ32GUKAR5NJ.pde: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Cam/FN117COGV5S5HM2.pdf: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /CD_ROM_Stepper/CD_ROM_Stepper.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /DC_motor/DC_motor/DC_motor.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /GPSlim236/gps/gps.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /home_WiServer_5DOF_ARM/home_WiServer_5DOF_ARM.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /home_WiServer_button/home_WiServer_button.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Home_WiServer_LCD/Home_wifi_LCD_ino/Home_wifi_LCD_ino.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /home_WiServer_test1/home_WiServer_test1.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /home_WiServer_test1/home_WiServer_test1_ino/home_WiServer_test1_ino.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /IR_copy_and_send/IR_copy_and_send.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /KH_office_WiServer_button/KH_office_WiServer_button.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /KH_office_WiServer_LCD/KH_wifi_LCD/KH_wifi_LCD_ino/KH_wifi_LCD_ino.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /KH_office_WiServer_test1/KH_office_WiServer_test1.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /motor_shield_servo/servo_with_motor_shield/servo_with_motor_shield.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /MPU6050三軸加速器/MPU6050_example1/MPU6050_example1.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.cpp: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /MPU6050三軸加速器/MPU6050_raw/I2Cdev.h: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /MPU6050三軸加速器/MPU6050_raw/MPU6050.cpp: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /MPU6050三軸加速器/MPU6050_raw/MPU6050.h: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /MPU6050三軸加速器/MPU6050_raw/MPU6050_raw.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2.c: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /RC_AR_Drone_V2_1_YJ/RC_AR_Drone_V2_1_YJ.pde: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /RC_AR_Drone_V2_1_YJ/user_config.h: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /set_wifi_ap_conf_TCPIP_SERVER_Artie/set_wifi_ap_conf_TCPIP_SERVER_Artie.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /set_wifi_ap_conf_TCPIP_SERVER_Artie: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /set_wifi_ap_conf_UDPSERVER_Artie/set_wifi_ap_conf_UDPSERVER_Artie.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /set_wifi_ap_conf_UDPSERVER_Artie/Setup_procedure_Artie.docx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /set_wifi_ap_conf_UDPSERVER_Artie: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /SOCKET_APP_ROBOT/SOCKET_APP_ROBOT.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /SOCKET_APP_ROBOT/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /SOCKET_APP_ROBOT_MEGA/SOCKET_APP_ROBOT_MEGA.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /SOCKET_APP_ROBOT_UNO/SOCKET_APP_ROBOT_UNO.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /SOCKET_APP_ROBOT_UNO/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /SPI_master/spi_master/spi_master.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /SPI_slave/spi_slave/spi_slave.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /stepper_oneRevolution/stepper_oneRevolution.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP/UDP.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP/udpapp.c: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/App.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1/WindowsFormsApplication1.csproj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_1/WindowsFormsApplication1/WindowsFormsApplication1.sln: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UDP_example.pdf: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /unipolar_stepper_oneRevolution/unipolar_stepper_oneRevolution.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /unipolar_stepper_oneStepAtATime/unipolar_stepper_oneStepAtATime.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /UNO_as_SPI_master/uno_SPI_master/uno_SPI_master.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.css: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport.xslt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Minus.gif: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/_UpgradeReport_Files/UpgradeReport_Plus.gif: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/Form1.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Application.myapp: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/AssemblyInfo.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/My Project/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/Backup/WiFi_Car_Controller.sln: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/UpgradeLog.XML: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Debug/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/bin/Release/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Form1.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Application.myapp: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/AssemblyInfo.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.Designer.vb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/My Project/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.read.1.tlog: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/ResGen.write.1.tlog: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.vbproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Debug/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/TempPE/My Project.Resources.Designer.vb.dll: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.vbproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/obj/Release/WiFi_Car_Controller.xml: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back.png: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/back1.png: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for.png: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for1.png: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for2.png: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/for3.png: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/left.jpg: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right.jpg: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/Resources/right1.jpg: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller/WiFi_Car_Controller.vbproj.user: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Car_Controller/WiFi_Car_Controller.sln: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/socketapp.c: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WiFi_Controlled_Car (1)/WiFi_Controlled_Car/WiFi_Controlled_Car.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Wiichuck_working/nunchuck_funcs.h: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /Wiichuck_working/Wiichuck_working.ino: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/App.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.config: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/bin/Debug/WindowsFormstest1.vshost.exe.manifest: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Form1.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Form1.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Form1.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferences.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.FileListAbsolute.txt: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csproj.GenerateResource.Cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.csprojResolveAssemblyReference.cache: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.exe: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Form1.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.pdb: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/obj/Debug/WindowsFormstest1.Properties.Resources.resources: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Program.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Properties/AssemblyInfo.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Properties/Resources.resx: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.Designer.cs: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/Properties/Settings.settings: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1/WindowsFormstest1.csproj: unresolved conflict results in No Copy
+2016-11-08 11:37:38: /WindowsFormstest1/WindowsFormstest1.sln: unresolved conflict results in No Copy
+2016-11-08 11:37:38: == Sync Complete. Time: 00:00:01, Speed: 122 KB/s, OK: 0, Errors: 0, Conflicts: 246
+2016-11-08 11:37:38: 
